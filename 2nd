@@ -1,0 +1,4 @@
+#len()-it ies used to find the length of string
+a='locus'
+p=len(a)
+print(p)

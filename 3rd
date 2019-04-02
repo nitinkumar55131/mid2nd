@@ -1,0 +1,4 @@
+#title()-it is used for every wordfirst character is converted into capatalise
+a='markhande'
+l=a.title()
+print(l)

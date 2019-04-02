@@ -1,0 +1,5 @@
+#there are four methods of string
+#1-count()-this function is used to count the no of characters
+a='nitin'
+h=a.count()
+print(h)

@@ -1,0 +1,4 @@
+#lower()-it conver all the upper case into lower case
+a='NEERAJkumar'
+s=a.lower()
+print(s)
